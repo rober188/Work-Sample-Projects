@@ -1,0 +1,3 @@
+This is a simple Japanese to English translation software example with grammar sensitivity.
+It was an exercise in the theory of computing where we were given basic language rules and were tasked with creating an accompanying NFA (Nondeterministic Finite Automata) and then converting that to a DFA (Deterministic Finite Automata)
+before building out the state maching in C++ while also having it check that basic sentence structure falls withing expected grammitical rules.
